@@ -64,7 +64,7 @@ export default AuthLayout
 ## Education
 
 - **BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS**
-- Faculty of Information Technologies and Control
+  - Faculty of Information Technologies and Control
 
 ## Languages
 
