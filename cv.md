@@ -6,8 +6,8 @@
 
 - Location: Minsk, Belarus
 - Email: darya.golovko23@gmail.com
-- GitHub: Darya-Golovko
-- Telegram: Daria Golovko
+- GitHub: [Darya-Golovko](https://github.com/Darya-Golovko)
+- Telegram: [Daria Golovko](https://t.me/dariegolovko)
 
 ## About Me
 
