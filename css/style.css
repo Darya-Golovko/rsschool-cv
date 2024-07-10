@@ -1,9 +1,36 @@
 body{
     background: rgb(233, 230, 230);
+    
 }
 
 .header_cv{
     display: flex;
+}
+
+.navigation{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    text-transform: uppercase;
+    padding: 15px;
+}
+
+.nav-item{
+    padding: 10px;
+    
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    outline: none;
+    text-decoration: none;
+    
+} 
+.link{
+    color: #000;
+}
+.link:hover {
+    color: rgb(0, 0, 0);
 }
 img{
     width: 200px;
@@ -12,15 +39,15 @@ img{
     border: solid ;
     
     display: block;
-    margin-left: 20px;
+    margin-left: 26px;
     margin-top: 10px;
     
 }
 
 .back{
     background: rgb(251, 250, 250);
-    width: 860px;
-    height: 1000px;
+    width: 1000px;
+    height: 1100px;
     margin-left: auto;
     margin-right: auto;
     
@@ -31,6 +58,9 @@ img{
     
 }
 
+.info{
+    margin-left: 5px;
+}
 .education{
     display: flex;
 }
@@ -49,7 +79,7 @@ img{
 
 
 .colum1{
-    margin-left: 10px;
+    margin-left: 30px;
 
 }
 
@@ -93,14 +123,15 @@ h3{
 
 .line{
     border-left: 3px solid  black;
-    height: 830px;
-    margin-left: 20px;
+    height: 870px;
+    margin-left: 15px;
     margin-top: auto;
 }
 
 .year{
     color: rgb(110, 171, 245);
     font-weight: 700;
+    margin-left: 10px;
 }
 
 .bold{
@@ -125,3 +156,20 @@ a {
     text-decoration: none;
     padding: 2px 1px 0;
   }
+
+.rss{
+    width: 221px;
+    height: 45px;
+    border: none;
+    margin-left: 680px;
+}
+
+.footer-container{
+    display: flex;
+    
+}
+
+.footer{
+    margin-top: 20px;
+    background: rgb(235, 245, 253);
+}
